@@ -21,7 +21,7 @@ $(document).ready(function() {
     var last_win = 0; // initialize variable that contains the win of the previous round
     
     // initialize language
-    var label_press = 'Ballon aufpumpen';
+    var label_press = 'inflate balloon';
     var label_collect = '$$$ einsammeln';
     var label_balance = 'Gesamtguthaben:';
     var label_last = 'Gewinn letzte Runde:';
